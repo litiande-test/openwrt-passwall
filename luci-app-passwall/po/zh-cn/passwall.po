@@ -1066,8 +1066,8 @@ msgstr "大图标"
 msgid "Show node check"
 msgstr "显示节点检测"
 
-msgid "Show Show IP111"
-msgstr "显示IP111"
+msgid "Show Show IP"
+msgstr "显示IP"
 
 msgid "Hide menu method, input example in the address bar:"
 msgstr "隐藏菜单方法，地址栏输入例："

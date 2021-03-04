@@ -141,11 +141,11 @@ local status = api.uci_get_type("global_other", "status", "")
 			</div>
 		</div>
 		<% end %>
-		<% if status:find("show_ip111") then %>
+		<% if status:find("show_ip") then %>
 		<div class="cbi-value">
 			<label class="cbi-value-title"></label>
 			<div class="cbi-value-field">
-				<input type="button" class="cbi-button cbi-input-reload" value="IP111.cn" onclick="javascript:window.open('http://www.ip111.cn/','target');" />
+				<input type="button" class="cbi-button cbi-input-reload" value="IP" onclick="javascript:window.open('https://ip.skk.moe/','target');" />
 			</div>
 		</div>
 		<% end %>
